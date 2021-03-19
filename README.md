@@ -1,29 +1,29 @@
 # Filament container
 Filament container for 3d printer 
 
+### Fotos
 
-##### Beschriftung.f3d 
-![](images/Beschriftung.png)
+![](images/IMG_1.JPG)
 
-##### Filamentoutlet.f3d 
-![](images/Filamentoutlet.png)
+|     |     |     |
+| --- | --- | --- |
+| ![](images/IMG_2.JPG) | ![](images/IMG_3.JPG) | ![](images/IMG_4.JPG) |
 
-##### HalterUndFuss.f3d 
-![](images/HalterUndFuss.png)
 
-##### HalterUndFuss.f3d 
-![](images/HalterUndFuss.png)
 
-##### Lock&Lock HPL836 Multifunktionsbox 5,5l
- https://www.amazon.de/gp/product/B0000AN4CV/ 
-![](images/HPL836.jpg) 
+### Teile
+| Beschriftung.f3d  | Filamentoutlet.f3d | HalterUndFuss.f3d  |
+| --- | --- | --- |
+| ![](images/Beschriftung.png) | ![](images/Filamentoutlet.png) | ![](images/HalterUndFuss.png) |
 
-#####  HT Abwasser Rohr PVC Weiß DN 32 
-https://www.amazon.de/gp/product/B0000AN4CV/ 
-![](images/HT-Rohr.png)  
-  
-##### Entfeuchter
-https://www.amazon.de/gp/product/B07K8Z2QXZ 
-![](images/Entfeuchter.jpg)
+| Lock&Lock HPL836  | HT Rohr DN 32 | Entfeuchter  |
+| --- | --- | --- |
+| ![](images/HPL836.jpg)  | ![](images/HT-Rohr.png)  | ![](images/Entfeuchter.jpg) |
 
- 
+
+Lock&Lock HPL836 : https://www.amazon.de/gp/product/B0000AN4CV/ 
+
+HT Rohr DN 32    : https://www.amazon.de/gp/product/B0000AN4CV/ 
+
+Entfeuchter      : https://www.amazon.de/gp/product/B07K8Z2QXZ 
+
