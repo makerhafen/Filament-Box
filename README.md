@@ -23,7 +23,7 @@ https://www.amazon.de/gp/product/B0000AN4CV/
 ![](images/HT-Rohr.png)  
   
 ##### Entfeuchter
-![](images/Entfeuchter.jpg)
 https://www.amazon.de/gp/product/B07K8Z2QXZ 
- 
+![](images/Entfeuchter.jpg)
+
  
