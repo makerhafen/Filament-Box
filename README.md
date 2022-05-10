@@ -23,7 +23,7 @@ Filament container for 3d printer
 
 Lock&Lock HPL836 : https://amzn.to/3yocPfv (*)
 
-HT Rohr DN 32    : hhttps://amzn.to/3wBrhhN (*)
+HT Rohr DN 32    : https://amzn.to/3wBrhhN (*)
 
 Entfeuchter      : https://amzn.to/3kX95cM (*)
 
