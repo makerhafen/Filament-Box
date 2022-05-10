@@ -21,9 +21,11 @@ Filament container for 3d printer
 | ![](images/HPL836.jpg)  | ![](images/HT-Rohr.png)  | ![](images/Entfeuchter.jpg) |
 
 
-Lock&Lock HPL836 : https://www.amazon.de/gp/product/B0000AN4CV/ 
+Lock&Lock HPL836 : https://amzn.to/3yocPfv (*)
 
-HT Rohr DN 32    : https://www.amazon.de/gp/product/B07D9JC7BW/ 
+HT Rohr DN 32    : hhttps://amzn.to/3wBrhhN (*)
 
-Entfeuchter      : https://www.amazon.de/gp/product/B07K8Z2QXZ 
+Entfeuchter      : https://amzn.to/3kX95cM (*)
+
+Affiliatelinks/Werbelinks: Die mit Sternchen (*) gekennzeichneten Links sind sogenannte Affiliate-Links. Wenn Du auf so einen Affiliate-Link klickst und über diesen Link einkaufst, erhalten wir (die Makerhafen gemeinnützige GmbH) von Amazon eine Provision. Für Dich verändert sich der Preis nicht.
 
